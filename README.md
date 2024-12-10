@@ -23,7 +23,7 @@ If you're running Python 3 or higher, use:
 
 `python -m http.server 8080`  (or `python3 -m http.server 8080`)
 
-Now, open your browser and type `http://localhost:8080/` in the URL bar and press enter or go.
+Now, open your browser and type `http://localhost:8080/` in the URL bar and press enter or go. The visualization works best when the browser is at 90%, as this is the default browser size it was created in.
 
 ## III. Welcome to the visualization!
 Immerse yourself in outer space, and explore the planets of the solar system and their moons!
