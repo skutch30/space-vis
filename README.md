@@ -27,3 +27,7 @@ Now, open your browser and type `http://localhost:8080/` in the URL bar and pres
 
 ## III. Welcome to the visualization!
 Immerse yourself in outer space, and explore the planets of the solar system and their moons!
+
+## IV. Resources
+* [The International Astronomial Union Minor Planet Center](https://minorplanetcenter.net)
+* [Interactive Data Visualization for the Web, 2nd Ed.](http://alignedleft.com/work/d3-book-2e) by Scott Murray
