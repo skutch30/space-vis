@@ -31,3 +31,6 @@ Immerse yourself in outer space, and explore the planets of the solar system and
 ## IV. Resources
 * [The International Astronomial Union Minor Planet Center](https://minorplanetcenter.net)
 * [Interactive Data Visualization for the Web, 2nd Ed.](http://alignedleft.com/work/d3-book-2e) by Scott Murray
+* [W3 Schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp)
+* [D3 Documentation](https://d3js.org/d3-array/group)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/d3-js-array-from-method/)
