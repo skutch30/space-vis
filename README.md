@@ -31,6 +31,9 @@ Now, open your browser and type `http://localhost:8080/` in the URL bar and pres
 Immerse yourself in outer space, and explore the planets of the solar system and their moons!
 
 ## IV. Resources
+
+I used numerous academic resources to help me complete this project:
+
 * [The International Astronomial Union Minor Planet Center](https://minorplanetcenter.net)
 * [Interactive Data Visualization for the Web, 2nd Ed.](http://alignedleft.com/work/d3-book-2e) by Scott Murray
 * [W3 Schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp)
