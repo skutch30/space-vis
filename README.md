@@ -11,7 +11,7 @@ The data was collected by me and stored inside a csv file. All data comes from n
 
 **A demo of the visualization can be found at https://www.youtube.com/watch?v=8JDMmEnQR5o**.
 
-*_There are numerous unnamed moons recently discovered in the 21st century, however I opted to omit these for the purpose of this visualization._
+*_There are a multitude of unnamed moons recently discovered in the 21st century, however I opted to omit these for the purpose of this visualization._
 
 ## II. Running the server
 To run the server, open Terminal (for Mac) or Command Prompt (for Windows).
