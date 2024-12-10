@@ -16,7 +16,7 @@ The data was collected by me and stored inside a csv file. All data comes from n
 ## II. Running the visualization
 **You can access this visualization at the following link: https://skutch30.github.io/space-vis/**
 
-To run the server locally, open Terminal (for Mac) or Command Prompt (for Windows).
+Or, to run the server locally, open Terminal (for Mac) or Command Prompt (for Windows).
 Navigate to the folder containing the visualization.
 
 In the console execute the following command if you're running Python 2:
