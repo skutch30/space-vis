@@ -3,7 +3,7 @@
 By: Madelyn Novelli
 
 ## I. Background
-This visualization displays all the *named moons orbiting the planets of our solar system, including dwarf planet Pluto. It contains both a scatterplot and a barchart that are linked, as well as a filter to select individual planets. By hovering over each dot on the scatterplot, users can view various information about each moon, including its name, what planet it belongs to, its year of discovery, who discovered it, and its diameter measured in kilometers. The size of each dot also represents the relative diameter of the moon compared with the other moons of the solar system.
+This visualization displays all the *named moons orbiting the planets of our solar system, including dwarf planet Pluto. It contains both a scatterplot and a barchart that are linked, as well as a filter to select individual planets. By hovering over each dot on the scatterplot, users can view various information about each moon, including its name, what planet it belongs to, its year of discovery, who discovered it, and its diameter measured in kilometers. The size of each dot represents the relative diameter of the moon compared with the other moons of the solar system, and its color corresponds with the associated color of its planet (e.g. the Earth's Moon is green because the Earth is associated with being green).
 
 The data was collected by me and stored inside a csv file. All data comes from numerous different reports from The International Astronomial Union Minor Planet Center (https://minorplanetcenter.net).
 
